@@ -6,7 +6,6 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%--<%@ page import="crawling.*" %>--%>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -42,14 +41,6 @@
       </div>
     </div>
   </section>
-
-<%--  <%!  String sale="";%>--%>
-
-<%--  <%! int a=0;%>--%>
-<%--  <%  Exchange_Rate bot1 = new Exchange_Rate("https://finance.naver.com/marketindex/exchangeList.naver");--%>
-<%--    sale = bot1.activateBot(2);--%>
-<%--  %>--%>
-<%--  rate <%= sale%>--%>
 
   <!--==================== ABOUT ====================-->
   <section class="about section" id="about">
@@ -179,23 +170,3 @@
 <script src="assets/js/main.js"></script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 9b43fc17fef72c194aae3f51e43211eb7c0364e8

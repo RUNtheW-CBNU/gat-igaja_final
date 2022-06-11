@@ -6,7 +6,6 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%--<%@ page import="crawling.*" %>--%>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -179,23 +178,3 @@
 <script src="assets/js/main.js"></script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 9b43fc17fef72c194aae3f51e43211eb7c0364e8

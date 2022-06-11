@@ -34,6 +34,10 @@
                 <li class="nav__item">
                     <a href="USA.jsp" class="nav__link">USA</a>
                 </li>
+                <li class="nav__item">
+                    <a href="login.html" class="nav__link">Login</a>
+                </li>
+
             </ul>
 
             <div class="nav__dark">
@@ -50,5 +54,6 @@
         </div>
     </nav>
 </header>
+<script src="assets/js/main.js"></script>
 </body>
 </html>
