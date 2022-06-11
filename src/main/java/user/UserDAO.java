@@ -15,7 +15,7 @@ public class UserDAO {
 			System.out.println("1");
 			String dbURL = "jdbc:mysql://localhost:3306/RuntheW?characterEncoding=UTF-8&serverTimezone=UTC&useSSL=false";
 			String dbID = "root";
-			String dbPassword = "michellek1!";
+			String dbPassword = "password";
 			Class.forName("com.mysql.jdbc.Driver");
 			conn = DriverManager.getConnection(dbURL, dbID, dbPassword);
 		} catch (Exception e) {
